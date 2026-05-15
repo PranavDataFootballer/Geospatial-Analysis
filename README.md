@@ -1,4 +1,5 @@
 # Geospatial-Analysis
+
 This project aims to provide insights into the spatial distribution, density, and clustering patterns of restaurants within the city. By leveraging geospatial data and analytical techniques, this project helps identify trends such as popular dining areas, underserved regions, and the relationship between restaurant locations and other factors like demographics or accessibility.
 
 The main objectives of this project are:
